@@ -1,0 +1,15 @@
+D:\VisualStudio\WS-VS2022-PROJETOS\ExceptionsAPP\ExceptionsAPP\bin\Debug\net6.0\ExceptionsAPP.exe
+D:\VisualStudio\WS-VS2022-PROJETOS\ExceptionsAPP\ExceptionsAPP\bin\Debug\net6.0\ExceptionsAPP.deps.json
+D:\VisualStudio\WS-VS2022-PROJETOS\ExceptionsAPP\ExceptionsAPP\bin\Debug\net6.0\ExceptionsAPP.runtimeconfig.json
+D:\VisualStudio\WS-VS2022-PROJETOS\ExceptionsAPP\ExceptionsAPP\bin\Debug\net6.0\ExceptionsAPP.dll
+D:\VisualStudio\WS-VS2022-PROJETOS\ExceptionsAPP\ExceptionsAPP\bin\Debug\net6.0\ref\ExceptionsAPP.dll
+D:\VisualStudio\WS-VS2022-PROJETOS\ExceptionsAPP\ExceptionsAPP\bin\Debug\net6.0\ExceptionsAPP.pdb
+D:\VisualStudio\WS-VS2022-PROJETOS\ExceptionsAPP\ExceptionsAPP\obj\Debug\net6.0\ExceptionsAPP.csproj.AssemblyReference.cache
+D:\VisualStudio\WS-VS2022-PROJETOS\ExceptionsAPP\ExceptionsAPP\obj\Debug\net6.0\ExceptionsAPP.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio\WS-VS2022-PROJETOS\ExceptionsAPP\ExceptionsAPP\obj\Debug\net6.0\ExceptionsAPP.AssemblyInfoInputs.cache
+D:\VisualStudio\WS-VS2022-PROJETOS\ExceptionsAPP\ExceptionsAPP\obj\Debug\net6.0\ExceptionsAPP.AssemblyInfo.cs
+D:\VisualStudio\WS-VS2022-PROJETOS\ExceptionsAPP\ExceptionsAPP\obj\Debug\net6.0\ExceptionsAPP.csproj.CoreCompileInputs.cache
+D:\VisualStudio\WS-VS2022-PROJETOS\ExceptionsAPP\ExceptionsAPP\obj\Debug\net6.0\ExceptionsAPP.dll
+D:\VisualStudio\WS-VS2022-PROJETOS\ExceptionsAPP\ExceptionsAPP\obj\Debug\net6.0\ref\ExceptionsAPP.dll
+D:\VisualStudio\WS-VS2022-PROJETOS\ExceptionsAPP\ExceptionsAPP\obj\Debug\net6.0\ExceptionsAPP.pdb
+D:\VisualStudio\WS-VS2022-PROJETOS\ExceptionsAPP\ExceptionsAPP\obj\Debug\net6.0\ExceptionsAPP.genruntimeconfig.cache
